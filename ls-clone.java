@@ -1,6 +1,6 @@
 import java.io.File;
 import java.util.Arrays;
-public class ls-clone {
+public class lsClone {
 	public static void main(String[] args){
 		String path;
 		if(args.length==0)
